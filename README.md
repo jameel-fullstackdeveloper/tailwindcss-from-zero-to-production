@@ -1,3 +1,3 @@
 # tailwindcss-from-zero-to-production
-Tailwinds Labs bootcampt adamwathan
-![Screenshot](screenshot.png)
+Tailwinds Labs bootcampt by adamwathan
+![Screenshot](/screenshot.png)
